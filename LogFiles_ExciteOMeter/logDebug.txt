@@ -54,3 +54,18 @@ unityTimeStamp,Event
 2023-08-03|15:49:19.758,New App Execution
 unityTimeStamp,Event
 2023-08-03|15:53:38.504,New App Execution
+unityTimeStamp,Event
+2023-08-03|16:16:32.767,New App Execution
+2023-08-03|16:16:43.677,ExciteOMeter >> No incoming data RRInterval was found to calculate feature SDNN
+2023-08-03|16:16:53.672,ExciteOMeter >> No incoming data RRInterval was found to calculate feature SDNN
+2023-08-03|16:17:03.667,ExciteOMeter >> No incoming data RRInterval was found to calculate feature SDNN
+2023-08-03|16:17:13.663,ExciteOMeter >> No incoming data RRInterval was found to calculate feature SDNN
+2023-08-03|16:17:23.657,ExciteOMeter >> No incoming data RRInterval was found to calculate feature SDNN
+2023-08-03|16:17:33.652,ExciteOMeter >> No incoming data RRInterval was found to calculate feature SDNN
+2023-08-03|16:17:43.648,ExciteOMeter >> No incoming data RRInterval was found to calculate feature SDNN
+unityTimeStamp,Event
+2023-08-03|16:38:00.763,New App Execution
+unityTimeStamp,Event
+2023-08-03|16:39:06.471,New App Execution
+unityTimeStamp,Event
+2023-08-03|16:39:53.870,New App Execution

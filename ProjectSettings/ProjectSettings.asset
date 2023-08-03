@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: W2Template
+  companyName: aepinilla
+  productName: DECO2021-W2Template
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -136,8 +136,6 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 17dabb50d44764af7a3b54a39dac0282, type: 2}
-  - {fileID: 11400000, guid: c39f68cb19a4341b6a5a031bf707e66c, type: 2}
-  - {fileID: -3943331498279748771, guid: 1ac13f796d1c34992946badc618d0ea7, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -157,7 +155,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DefaultCompany.W2Template
+    Android: com.aepinilla.DECO2021W2Template
   buildNumber:
     Standalone: 0
     VisionOS: 0

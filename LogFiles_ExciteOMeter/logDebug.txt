@@ -1,0 +1,48 @@
+unityTimeStamp,Event
+2023-08-03|14:21:33.782,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:22:28.954,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:24:09.605,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:26:36.635,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:38:47.578,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:39:02.664,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:39:41.952,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:41:37.207,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:42:33.201,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:43:16.030,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:44:55.786,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:45:07.784,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:45:40.393,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:48:03.576,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:48:42.096,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:51:09.550,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:51:45.635,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:53:35.516,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:53:50.898,New App Execution
+unityTimeStamp,Event
+2023-08-03|14:55:08.318,New App Execution
+unityTimeStamp,Event
+2023-08-03|15:00:16.650,New App Execution
+unityTimeStamp,Event
+2023-08-03|15:01:11.478,New App Execution
+unityTimeStamp,Event
+2023-08-03|15:04:21.192,New App Execution
+unityTimeStamp,Event
+2023-08-03|15:04:59.475,New App Execution
